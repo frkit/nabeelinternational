@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /layout/
+Disallow: /setup_*.php
+Disallow: /force_*.php
+
+Sitemap: https://www.nabeelinternational.com/sitemap.xml
